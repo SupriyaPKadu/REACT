@@ -1,9 +1,7 @@
 import React from "react";
 
 const Event_Handle = () => {
-  // function handleOnClick() {//Always start the EventHandler_function & EventHandler name with "handle" for better pratice
-  //     alert("You Clicked On Button");
-  //   }
+ 
   
   
 //   const show=(a)=>{
@@ -18,7 +16,7 @@ const display=(x,y)=>{
    
   return (
     <>
-      {/* <button onClick={handleOnClick}>Click Here</button> */}
+     
 
      
 
