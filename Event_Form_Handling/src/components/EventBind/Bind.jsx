@@ -7,6 +7,8 @@ class Bind extends Component {
 		this.state = {
 			message: 'Welcome '
 		}
+
+		const bind = () =>{this.clickHandler.bind(this)}
 	}
     clickHandler() {
         this.setState({
